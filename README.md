@@ -1,2 +1,6 @@
-# meals_app
-Flutter app using dart. It is a cookbook with over 50 recipes and can manage the user's favorite dishes. Works on Android &amp; iOS.
+#meals_app
+Flutter app that has recipes with ingredients and preparation methods.
+- Manages users’ settings and favorite dishes.
+- 5 pages in app, with many functionalities.
+- Works on iOS, Android, macOS, Windows, and Ubuntu.
+- Elegant UI/UX based on Android 11.
