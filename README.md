@@ -3,4 +3,4 @@
 - Manages users’ settings and favorite dishes.
 - 5 pages in app, with many functionalities.
 - Works on iOS, Android, macOS, Windows, and Ubuntu.
-- Elegant UI/UX based on Android 11's *"Material You"*.
+- Elegant UI/UX based on Android 12's *"Material You"*.
